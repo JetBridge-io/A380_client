@@ -1,0 +1,20 @@
+{
+  "name": "A380-client",
+  "version": "0.0.5",
+  "description": "React-native effective updater client with A380 backend",
+  "main": "A380.js",
+  "keywords": [
+    "A380",
+    "react-native"
+  ],
+  "author": "JET BRIDGE LLC.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com.jetbridge/A380_client"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
